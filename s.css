@@ -1,0 +1,33 @@
+
+    /* Remove the navbar's default rounded borders and increase the bottom margin */ 
+    
+    body{
+
+    font-family: 'Fira Sans';font-size: 18px;
+    }
+
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+    }
+
+    .dropdown-menu{
+      background-color:#f2f2f2; 
+      
+    }
+    .dropdown-menu:hover{
+      background-color:#202020;
+     
+    }
+    
+    /* Remove the jumbotron's default bottom margin */ 
+    .jumbotron {
+      margin-bottom: 0;
+    }
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+   
+    
